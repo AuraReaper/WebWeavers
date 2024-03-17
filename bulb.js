@@ -106,8 +106,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 //get request
 
-fetch("https://kodessphere-api.vercel.app/devices/3WNAni7", {
-  method: "GET", // default, so we can ignore
-})
-  .then((response) => response.json())
-  .then((json) => console.log(json));
+// fetch("https://kodessphere-api.vercel.app/devices/3WNAni7", {
+//   method: "GET", // default, so we can ignore
+// })
+//   .then((response) => response.json())
+//   .then((json) => console.log(json));
