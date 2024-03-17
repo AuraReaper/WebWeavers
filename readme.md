@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-Special thanks to [Hackathon Organizers/Name] for providing the API and inspiration for this project.
+Special thanks to Konnexions for providing the API and problem statement of the project.
 
 ---
 
