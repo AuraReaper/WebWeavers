@@ -70,5 +70,5 @@ label input:checked ~ span ion-icon {
 }
 
 label input:checked ~ .bulb {
-    background: url(./assest/Bulb\ on.jpg);
+    background: url(./assest/Bulb\ On.jpg);
 }
