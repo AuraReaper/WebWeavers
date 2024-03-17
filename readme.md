@@ -7,13 +7,13 @@ Great! I've updated the README to include the responsive design aspect:
 
 # Bulb Controller Website
 
-This repository contains the source code for a bulb controller website developed for a hackathon. The website allows users to control the state of a virtual bulb using a provided API. It is built using HTML, Tailwind CSS, and JavaScript and features a responsive design.
+This repository contains the source code for a bulb controller website developed for a hackathon. The website allows users to control the state of a virtual bulb using a provided API. It is built using HTML, Tailwind CSS, and JavaScript .
 
 ## Features
 
 - **Bulb Control**: Users can turn the virtual bulb on or off by clicking the respective buttons on the website.
 - **Real-time Updates**: The website communicates with the provided API to reflect the current state of the bulb in real time.
-- **Responsive Design**: The website is designed to be responsive and works seamlessly across various devices and screen sizes.
+
 
 ## Technologies Used
 
