@@ -54,3 +54,10 @@ fetch("https://kodessphere-api.vercel.app/devices", {
 })
   .then((response) => response.json())
   .then((response) => console.log(JSON.stringify(response)));
+
+fetch("https://kodessphere-api.vercel.app/devices/3WNAni7", {
+  method: "GET" // default, so we can ignore
+})
+  .then((response) => response.json())
+  .then((json) => console.log(json));
+
